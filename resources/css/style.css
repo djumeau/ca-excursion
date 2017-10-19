@@ -2,7 +2,28 @@ body {
   background-color: black;
 }
 
-h1 {
-  font-weight: bold;
+h1,
+p {
+  text-align: center;
+}
+
+h1,
+h2 {
+  font-family: Verdana;
+}
+
+h1{
+  font-size: 50px;
+  font-weight: normal;
   color: white;
+}
+
+h2 {
+  font-size: 21px;
+  color: gray;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
 }
