@@ -1,15 +1,12 @@
 body {
   background-color: black;
+  font-family: Verdana;
 }
 
 h1,
+h2,
 p {
   text-align: center;
-}
-
-h1,
-h2 {
-  font-family: Verdana;
 }
 
 h1{
@@ -30,7 +27,7 @@ a {
 
 .guide {
   font-size: 42px;
-  font-weight: 300;  
+  font-weight: 300;
 }
 
 .footer {
